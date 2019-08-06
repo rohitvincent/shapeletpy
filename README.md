@@ -1,4 +1,3 @@
-Time Series Classification Using Shapelets
 # shapes-from-time
 
 Time Series Classification Using Shapelets as proposed by Eamonn Keogh and Lexiang Ye. Shapelets are time series subsequences which are in some sense maximally representative of a class. 
