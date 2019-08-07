@@ -16,21 +16,22 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+For a fresh installation, run the below code:
 
 ```
-Give the example
+pip install shapesfromtime
 ```
 
-And repeat
+If you need to reinstall the existing copy of this package, execute the following command:
 
 ```
-until finished
+pip install --upgrade --force-reinstall shapesfromtime
 ```
+You should get an output as shown below:
 
-End with an example of getting some data out of the system or using it for a little demo
+Installing collected packages: shapesfromtime
+  Found existing installation: shapesfromtime 0.2
+Successfully installed shapesfromtime-0.2
 
 ## Running the tests
 
