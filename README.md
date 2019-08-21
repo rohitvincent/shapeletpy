@@ -8,10 +8,25 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Following packages should be installed in your system before shapeletpy installation.
 
 ```
-Give examples
+      'markdown',
+		  'collections',
+		  'itertools',
+		  'operator',
+		  'pickle',
+		  'random',
+		  'threading',
+		  'time',
+		  'sklearn',
+		  'matplotlib',
+		  'numpy',
+		  'pandas',
+		  'progressbar',
+		  'seaborn',
+		  'saxpy',
+		  'scipy'
 ```
 
 ### Installing
@@ -19,19 +34,19 @@ Give examples
 For a fresh installation, run the below code:
 
 ```
-pip install shapesfromtime
+pip install shapeletpy
 ```
 
 If you need to reinstall the existing copy of this package, execute the following command:
 
 ```
-pip install --upgrade --force-reinstall shapesfromtime
+pip install --upgrade --force-reinstall shapeletpy
 ```
 You should get an output as shown below:
 
-Installing collected packages: shapesfromtime
-  Found existing installation: shapesfromtime 0.2
-Successfully installed shapesfromtime-0.2
+Installing collected packages: shapeletpy
+  Found existing installation: shapeletpy 0.1
+Successfully installed shapeletpy-0.1
 
 ## Running the tests
 
